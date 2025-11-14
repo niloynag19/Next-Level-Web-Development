@@ -16,7 +16,7 @@ class Animal {
 }
 
 
-const dog = new Animal("dogesh", "dog", "ghew")
+const dog1 = new Animal("dogesh", "dog", "ghew")
 const cat = new Animal("tom", "cat", "mew")
 console.log(dog.name);
 dog.makeSound()

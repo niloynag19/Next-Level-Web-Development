@@ -1,4 +1,4 @@
-var Animal = /** @class */ (function () {
+var Animal1 = /** @class */ (function () {
     // name: string;
     // species: string;
     // sound: string;
