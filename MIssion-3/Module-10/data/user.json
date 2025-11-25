@@ -1,0 +1,6 @@
+{
+    "name":"John Doe",
+    "age":30,
+    "email":"john10@gmail.com",
+    "hobbies":["coding", "reading", "gaming"]
+}
